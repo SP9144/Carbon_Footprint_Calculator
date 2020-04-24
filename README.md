@@ -1,33 +1,38 @@
-# DASS38
+# DASS Project - Quantification of CFP for Logistic Hubs
 
-Team 38
+## Team 38 - Project 4
 
-###Setup
+### Steps to installation:
 
-###Folder frontend
-npm install
-npm install react-bootstrap
-npm install react-confirm-alert
-npm install react-facebook-login
-npm install react-google-login
-npm start
+* Dowload Codebase from the src folder in dev branch.
+* Go to backend folder:
+    * `cd flask`
+    * `source bin/activate`
+    * `pip install flask-bcrypt`
+    * `python3 server.py`
 
+* Go to frontend folder:
+    * `npm install`
+    * `npm install react-bootstrap`
+    * `npm install react-confirm-alert`
+    * `npm install react-facebook-login`
+    * `npm install react-google-login`
+    * `npm start`
 
-###Folder backend
-cd flask
-source bin/activate
-pip install flask-bcrypt
-python3 server.py
+*  Folder HeatMap_CFP
+    * `npm install --save-dev parcel-bundler`
+    * `npm install ol`
+    * `npm start`
 
-###Folder HeatMap_CFP
-npm install --save-dev parcel-bundler
-npm install ol
+*  Folder GUI-GUI_SP
+    * `npm install --save-dev parcel-bundler`
+    * `npm install ol`
+    * `npm start`
 
-###Folder GUI-GUI_SP
-npm install --save-dev parcel-bundler
-npm install ol
+*  Folder  GUI-GUI_SP_Manual
+    * `npm install --save-dev parcel-bundler`
+    * `npm install ol`
+    * `npm start`
 
-###Folder GUI-GUI_SP_Manual
-npm install --save-dev parcel-bundler
-npm install ol
-
+### App opens on:
+[http://localhost:3000/index]()
