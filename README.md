@@ -5,4 +5,4 @@ Team 38
 Project 4
 <br>
 <br>
-**Refer to README in the dev branch.**
+**Refer to README in the dev branch of this repository**
