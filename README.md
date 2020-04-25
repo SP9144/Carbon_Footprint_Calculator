@@ -2,6 +2,10 @@
 
 ## Team 38 - Project 4
 
+### Demo Video:
+[Product Launch Video](https://drive.google.com/file/d/19ezrszT4F66qhe65TQ0ZatYShFzkPEyx/view)
+
+
 ### Steps to installation:
 
 * Dowload Codebase from the src folder in dev branch.
@@ -19,17 +23,17 @@
     * `npm install react-google-login`
     * `npm start`
 
-*  Folder HeatMap_CFP
+*  Folder HeatMap_CFP:
     * `npm install --save-dev parcel-bundler`
     * `npm install ol`
     * `npm start`
 
-*  Folder GUI-GUI_SP
+*  Folder GUI-GUI_SP:
     * `npm install --save-dev parcel-bundler`
     * `npm install ol`
     * `npm start`
 
-*  Folder  GUI-GUI_SP_Manual
+*  Folder  GUI-GUI_SP_Manual:
     * `npm install --save-dev parcel-bundler`
     * `npm install ol`
     * `npm start`
