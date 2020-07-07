@@ -1,8 +1,15 @@
 
-# DASS Project - Quantification of CFP for Logistic Hubs
+# Quantification of Carbon Footptint for Logistic Hubs
 
 
-## Team 38 - Project 4
+## Internship at Kaiinos Geospatial Technologies Pvt. Ltd.
+
+### Contributors
+
+* Shreeya Pahune
+* Kushagra Agarwal
+* Dama Sravani
+* Sriharshitha B
 
 ### Demo Video:
 [Product Launch Video](https://drive.google.com/file/d/1MAdlHjbdgIRxE4CT1fkZ50L53tU30yKN/view)
