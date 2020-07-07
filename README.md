@@ -1,8 +1,3 @@
-# DASS38
+# Carbon Footprint Calculator
 
-Team 38
-<br>
-Project 4
-<br>
-<br>
-**Refer to README in the dev branch of this repository**
+## All code is present in the dev branch of this repository
