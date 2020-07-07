@@ -10,7 +10,7 @@
 
 ### Steps to installation:
 
-* Dowload Codebase from the src folder in dev branch.
+* Dowload Codebase from the src folder.
 * Go to backend folder:
     * `cd flask`
     * `source bin/activate`
