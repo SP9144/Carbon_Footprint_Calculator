@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "font-awesome": "^4.7.0",
     "fontawesome": "^5.6.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ol": "^6.3.1",
     "popper": "^1.0.1",
     "react": "^16.13.0",
